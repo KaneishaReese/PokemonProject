@@ -1,0 +1,27 @@
+Task,Category,Status
+Create a new Notion page for the Pokémon Platinum Project,Setup,Not Started
+Download and organize the dataset locally,Setup,Not Started
+Set up a project folder with subfolders ,Setup,Not Started
+Open a new Jupyter Notebook or Python script for notes and EDA,Setup,Not Started
+Load csv files into pandas,General Data Exploration,Not Started
+Preview each dataset ,General Data Exploration,Not Started
+Check for missing values or formatting issues,General Data Exploration,Not Started
+Review key columns ,General Data Exploration,Not Started
+Calculate total EXP needed for a sample Pokémon to reach level 100,Leveling Efficiency Analysis,Not Started
+Sum the EXP Trainers give in a gym.section or later,Leveling Efficiency Analysis,Not Started
+Store EXP totals by gym.section,Leveling Efficiency Analysis,Not Started
+Create a function to estimate number of battles needed to max-level a Pokémon,Leveling Efficiency Analysis,Not Started
+Test the function with different Pokémon species,Leveling Efficiency Analysis,Not Started
+Plot how many battles are needed for Pokémon EXP groups,Leveling Efficiency Analysis,Not Started
+Compare gym.sections by total available EXP,Leveling Efficiency Analysis,Not Started
+Create a list of Pokémon by type,Type Specialization Analysis,Not Started
+Approximate earliest gym.section for each Pokémon of a type,Type Specialization Analysis,Not Started
+Find the latest gym.section needed to complete a type team,Type Specialization Analysis,Not Started
+Plot when each Pokémon becomes available (timeline or bar chart),Type Specialization Analysis,Not Started
+Compare which types are easier/harder to build early teams for,Type Specialization Analysis,Not Started
+Write a short "Findings Summary" for each question,Final Steps,Not Started
+Save all charts and figures into /images folder,Final Steps,Not Started
+Create a polished final notebook or dashboard summarizing both analyses,Final Steps,Not Started
+Post project summary on GitHub or Kaggle,Final Steps,Not Started
+Add filtering for Pokémon forms (stretch goal),Stretch Goals,Not Started
+Build a simple dashboard with Streamlit or Dash (stretch goal),Stretch Goals,Not Started
